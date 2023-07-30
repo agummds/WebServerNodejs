@@ -4,4 +4,7 @@ untuk package
         "start": "node server.js"
       }
 
+untuk menyimpan package
+npm run start 
+
 
